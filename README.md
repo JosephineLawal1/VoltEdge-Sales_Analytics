@@ -59,3 +59,16 @@ The final interactive dashboard consists of three strategic lenses:
 3. Import the CSV files from the `/data` folder into your database following the numbered sequence.
 4. Execute `sql/business_queries.sql` to verify analytical metrics.
 5. Open the `.twbx` file inside the `/tableau` folder via Tableau Desktop or Tableau Public to explore the interactive visual layer.# VoltEdge-Sales_Analytics
+
+---
+
+## 📬 Contact & Connect
+
+If you have any questions about this project, want to discuss the data architecture, or are interested in collaborating on healthcare operations and data analytics projects, feel free to reach out!
+
+* **Name:** Josephine
+* **Role:** Healthcare Operations & Data Analyst
+* **Email:** [Lawaljosephinet@gmail.com]
+* **LinkedIn:** [linkedin.com/in/josephine-t-lawal] 
+
+

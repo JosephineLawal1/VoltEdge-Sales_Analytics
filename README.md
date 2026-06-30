@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This repository contains an end-to-end data analytics project focused on **VoltEdge Systems**, an industrial IoT and component provider. Utilizing a relational database schema (Snowflake/SQL) and **Tableau**, this project uncovers revenue drivers, identifies high-value customer segments, tracks purchasing frequencies, and surfaces optimization lists for target marketing.
 
-📊 **[Link to Interactive Tableau Public Dashboard](YOUR_TABLEAU_PUBLIC_LINK_HERE)**
+📊 **[Link to Interactive Tableau Public Dashboard](https://public.tableau.com/app/profile-settings#:~:text=https%3A//public.tableau.com/app/profile/josephine.lawal)**
 
 ---
 

@@ -1,0 +1,17 @@
+PRODUCTDESCRIPTION,TOTAL_ORDERED_QTY,RNK,DENSE_RNK,ROW_NUM
+Driver Circuit - Lite (24V),299,1,1,1
+Sensor Module - Industrial (24V),303,2,2,2
+Battery Management System - Standard (48V),305,3,3,3
+Inverter Module - Lite (12V),306,4,4,4
+Tracking Module - Lite (12V),306,4,4,5
+Charging Controller - Lite (48V),310,6,5,6
+Embedded System Board - Pro (5V),311,7,6,7
+Embedded System Board - Lite (5V),327,8,7,8
+Inverter Module - Lite (48V),335,9,8,9
+Embedded System Board - Lite (24V),338,10,9,10
+Control Unit - Industrial (48V),339,11,10,11
+Power Supply Unit - Industrial (12V),343,12,11,12
+Data Acquisition Unit - Pro (24V),373,13,12,13
+Power Supply Unit - Pro (48V),422,14,13,14
+Charging Controller - Lite (12V),439,15,14,15
+Communication Module - Standard (12V),456,16,15,16

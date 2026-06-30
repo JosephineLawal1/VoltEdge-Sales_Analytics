@@ -1,0 +1,74 @@
+PRODUCTID,PRODUCTDESCRIPTION,PRODUCTSTANDARDPRICE
+2,Control Unit - Industrial (24V),400
+4,Control Unit - Industrial (48V),407
+5,Energy Meter - Pro (12V),472
+14,IoT Gateway - Industrial (48V),630
+16,Smart Controller - Industrial (24V),623
+17,Automation Controller - Pro (48V),722
+18,Energy Meter - Pro (24V),511
+20,Communication Module - Standard (24V),462
+22,IoT Gateway - Pro (24V),460
+24,Data Acquisition Unit - Pro (12V),629
+26,Sensor Module - Pro (12V),699
+27,Communication Module - Industrial (12V),787
+31,Sensor Module - Standard (24V),475
+32,Driver Circuit - Lite (24V),372
+33,Communication Module - Standard (12V),522
+36,Microcontroller Board - Pro (12V),363
+37,Battery Management System - Standard (24V),360
+40,Sensor Module - Industrial (24V),876
+41,Smart Controller - Standard (24V),382
+43,Sensor Module - Industrial (5V),896
+44,Sensor Module - Standard (48V),469
+49,IoT Gateway - Industrial (12V),563
+61,Sensor Module - Pro (5V),697
+62,Driver Circuit - Standard (48V),458
+65,Battery Management System - Industrial (5V),648
+71,Vision Processing Unit - Industrial (24V),446
+72,Charging Controller - Pro (12V),433
+74,Charging Controller - Pro (48V),442
+83,Communication Module - Pro (48V),696
+84,Charging Controller - Industrial (48V),538
+86,Signal Processor - Pro (5V),386
+88,Smart Controller - Standard (12V),389
+92,Data Acquisition Unit - Standard (12V),475
+95,Data Acquisition Unit - Standard (24V),451
+96,Energy Meter - Pro (48V),530
+99,Control Unit - Industrial (12V),371
+100,IoT Gateway - Pro (48V),439
+101,Vision Processing Unit - Industrial (5V),410
+102,Battery Management System - Industrial (24V),630
+105,Charging Controller - Industrial (5V),526
+108,Battery Management System - Pro (24V),508
+109,Automation Controller - Pro (24V),619
+110,Sensor Module - Industrial (48V),888
+114,Energy Meter - Standard (24V),378
+116,Battery Management System - Industrial (12V),590
+117,Battery Management System - Standard (48V),377
+119,Charging Controller - Pro (5V),472
+121,Driver Circuit - Industrial (48V),875
+122,Sensor Module - Pro (48V),713
+125,Smart Controller - Industrial (12V),622
+126,Communication Module - Pro (5V),626
+127,Signal Processor - Pro (24V),399
+129,Automation Controller - Standard (5V),459
+133,Driver Circuit - Pro (48V),717
+134,IoT Gateway - Pro (5V),485
+135,IoT Gateway - Industrial (5V),591
+136,Data Acquisition Unit - Industrial (5V),816
+138,Smart Controller - Standard (48V),371
+139,Energy Meter - Industrial (5V),658
+149,Driver Circuit - Industrial (5V),841
+152,Microcontroller Board - Industrial (48V),415
+154,Automation Controller - Standard (48V),530
+156,Data Acquisition Unit - Standard (48V),476
+157,Communication Module - Pro (24V),737
+158,Communication Module - Lite (12V),364
+161,Automation Controller - Pro (5V),732
+162,Automation Controller - Industrial (48V),941
+163,Driver Circuit - Pro (24V),732
+164,Data Acquisition Unit - Pro (24V),642
+166,Data Acquisition Unit - Pro (48V),690
+167,Energy Meter - Standard (12V),365
+170,Driver Circuit - Standard (12V),519
+175,Driver Circuit - Industrial (12V),883
